@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_material_move_material_move,material_move.material_move,model_material_move_material_move,,1,0,0,0
