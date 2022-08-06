@@ -21,7 +21,7 @@
     'currency': 'EUR',
     'license': 'AGPL-3',
     'images': [
-        'static/src/img/logo.png',
+        'static/src/img/thumb.png',
     ],
 
     # any module necessary for this one to work correctly
