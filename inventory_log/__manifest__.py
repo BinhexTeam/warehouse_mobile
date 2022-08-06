@@ -17,7 +17,7 @@
     # for the full list
     'category': 'Warehouse',
     'version': '0.1',
-    'price': 299,
+    'price': 199,
     'currency': 'EUR',
     'license': 'AGPL-3',
     'images': [
