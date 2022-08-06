@@ -17,6 +17,9 @@
     # for the full list
     'category': 'Warehouse',
     'version': '0.1',
+    'price': 299,
+    'currency': 'EUR',
+    'license': 'AGPL-3',
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'material_move','sale_stock','purchase','web_digital_sign'],
